@@ -19,5 +19,4 @@ Themes:\
 ![Themes](https://user-images.githubusercontent.com/122459765/216289313-25b89df3-8ad2-4519-8406-c650ba601b0b.png)
 
 In Use:\
-
 ![Info](https://user-images.githubusercontent.com/122459765/216289438-81efc5b0-5046-4eb8-805c-5f27e64681e5.png)
